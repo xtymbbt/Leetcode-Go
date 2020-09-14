@@ -6,4 +6,6 @@
  ### 目前的进度：
  01-Tree-P6-257已做完预备P7-235(树已经练的差不多了，开始下一章节)
  
- 02-Divide and conquer-P2-154
+ 02-Divide and conquer 已完成
+ 
+ 03-List-P1-445
