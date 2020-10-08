@@ -1,8 +1,4 @@
-package main
-
-func main() {
-	
-}
+package _47
 
 func findCircleNum(M [][]int) int {
 	ans, v := 0, make([]bool, len(M))

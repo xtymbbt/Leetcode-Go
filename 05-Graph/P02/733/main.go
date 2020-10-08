@@ -1,8 +1,4 @@
-package main
-
-func main() {
-
-}
+package _33
 
 func floodFill(image [][]int, sr int, sc int, newColor int) [][]int {
 	target := image[sr][sc]

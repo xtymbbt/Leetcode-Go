@@ -1,8 +1,4 @@
-package main
-
-func main() {
-
-}
+package _95
 
 var res = 0
 var present = 0

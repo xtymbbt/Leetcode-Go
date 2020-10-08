@@ -1,4 +1,4 @@
-package main
+package _38
 
 type Node struct {
 	Val int
@@ -6,9 +6,6 @@ type Node struct {
 	Random *Node
 }
 
-func main() {
-	
-}
 /**
  * Definition for a Node.
  * type Node struct {

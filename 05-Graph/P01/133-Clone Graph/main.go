@@ -1,12 +1,8 @@
-package main
+package _33_Clone_Graph
 
 type Node struct {
 	Val int
 	Neighbors []*Node
-}
-
-func main() {
-
 }
 
 /**

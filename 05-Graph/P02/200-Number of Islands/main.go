@@ -1,8 +1,4 @@
-package main
-
-func main() {
-
-}
+package _00_Number_of_Islands
 
 func numIslands(grid [][]byte) int {
 	count := 0
