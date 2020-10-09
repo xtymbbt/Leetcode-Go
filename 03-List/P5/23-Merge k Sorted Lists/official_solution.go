@@ -1,6 +1,6 @@
-package main
+package notnotMain
 
-func main() {
+func notMain() {
 	
 }
 

@@ -1,11 +1,11 @@
-package main
+package notMain
 
 type ListNode struct {
 	Val int
 	Next *ListNode
 }
 
-func main() {
+func notMain() {
 	head5 := &ListNode{
 		Val:  5,
 		Next: nil,

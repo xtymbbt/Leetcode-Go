@@ -1,4 +1,4 @@
-package main
+package notMain
 
 type Node struct {
     Val int

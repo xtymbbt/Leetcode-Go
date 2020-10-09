@@ -1,8 +1,4 @@
-package main
-
-func main() {
-
-}
+package notMain
 func sortList2(head *ListNode) *ListNode {
 
 	// 0 or 1 element.

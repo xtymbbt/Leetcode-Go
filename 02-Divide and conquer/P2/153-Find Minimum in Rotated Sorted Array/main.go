@@ -1,4 +1,4 @@
-package main
+package notMain
 
 func findMin(nums []int) int {
 	var min = nums[0]

@@ -1,4 +1,4 @@
-package main
+package _30
 
 import "math"
 
@@ -50,8 +50,4 @@ func search(root *TreeNode, lower Value, upper Value) {
 	}
 	search(root.Left, lower, root.Val)
 	search(root.Right, root.Val, upper)
-}
-
-func main() {
-
 }

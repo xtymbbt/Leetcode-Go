@@ -1,4 +1,4 @@
-package main
+package notMain
 
 var counter int
 func pathSum(root *TreeNode, sum int) int {

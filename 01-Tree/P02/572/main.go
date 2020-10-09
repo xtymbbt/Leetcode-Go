@@ -1,4 +1,4 @@
-package main
+package notMain
 
 import "fmt"
 
@@ -8,7 +8,7 @@ type TreeNode struct {
 	Right *TreeNode
 }
 
-func main() {
+func notMain() {
 	var send = &TreeNode{
 		Val:   2,
 		Left:  nil,

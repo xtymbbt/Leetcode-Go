@@ -1,13 +1,9 @@
-package main
+package _00_Search_in_a_Binary_Search_Tree
 
 type TreeNode struct {
 	Val int
 	Left *TreeNode
 	Right *TreeNode
-}
-
-func main() {
-	
 }
 
 /**

@@ -1,4 +1,4 @@
-package main
+package notMain
 
 import "fmt"
 
@@ -7,7 +7,7 @@ type ListNode struct {
 	Next *ListNode
 }
 
-func main() {
+func notMain() {
 	head2 := &ListNode{
 		Val:  2,
 		Next: nil,

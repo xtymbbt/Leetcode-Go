@@ -1,6 +1,6 @@
-package main
+package notMain
 
-func main() {
+func notMain() {
 	
 }
 func insertionSortList2(head *ListNode) *ListNode {

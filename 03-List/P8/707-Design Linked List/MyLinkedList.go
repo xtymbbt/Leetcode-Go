@@ -1,4 +1,4 @@
-package main
+package _07_Design_Linked_List
 
 // 定义一个 链表结构
 type ListNode struct {

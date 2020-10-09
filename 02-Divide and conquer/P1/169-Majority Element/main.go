@@ -1,4 +1,4 @@
-package main
+package notMain
 
 func majorityElement(nums []int) int {
 	//数组非空。且数组中总是有多数元素。

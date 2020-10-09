@@ -1,14 +1,10 @@
-package main
+package notnotMain
 
 import "fmt"
 
 type ListNode struct {
 	Val int
 	Next *ListNode
-}
-
-func main() {
-	
 }
 
 func mergeKLists(lists []*ListNode) *ListNode {

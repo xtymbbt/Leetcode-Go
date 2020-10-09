@@ -1,4 +1,4 @@
-package main
+package _8_Validate_Binary_Search_Tree
 
 import "math"
 
@@ -29,8 +29,4 @@ func helper(root *TreeNode, lower, upper int) bool {
 		return false
 	}
 	return helper(root.Left, lower, root.Val) && helper(root.Right, root.Val, upper)
-}
-
-func main() {
-
 }
