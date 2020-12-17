@@ -99,7 +99,7 @@ func sum(l1 *ListNode, l2 *ListNode, tensUP bool, res *ListNode) {
 	}
 }
 ```
-##### 解决思路2：利用栈来“反转”链表
+#### 解决思路2：利用栈来“反转”链表
 ```c++
 // Author: Huahua
 // Running time: 40 ms
@@ -147,7 +147,7 @@ public:
 #### 示例 3：
 输入：nums = [], target = 0
 输出：[-1,-1]
-##### 解决思路：双指针+二分搜索
+#### 解决思路：双指针+二分搜索
 ```go
 package _4
 
