@@ -16,3 +16,9 @@
  
  06-Search P1-40 
            P2-46
+
+ 07-Binary Search P1-35
+ 
+ 08-Two Pointers P1-42
+ 
+ 
